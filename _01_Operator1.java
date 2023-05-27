@@ -66,6 +66,6 @@ public class _01_Operator1 {
         System.out.println("대기 인원 : " + waiting++); //대기인원:2
         System.out.println("총 대기 인원 : " + waiting); //총 대기인원:3
 
-
+        //추가했따
     }
 }
